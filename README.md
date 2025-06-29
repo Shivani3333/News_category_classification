@@ -15,6 +15,7 @@ Used: News Category Dataset from Kaggle
 3. Extract features using TF-IDF
 4. Train models
 5. Evaluate and compare
+![image](https://github.com/user-attachments/assets/3205fd48-325c-42b9-b27a-6382f87ed1b3)
 
 ## How to Run
 1. Clone the repo
